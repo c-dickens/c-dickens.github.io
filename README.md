@@ -1,4 +1,8 @@
 # al-folio
+
+- Make sure the baseulr is empty in _config.yml
+- Ensure that Magik is false in the _config.yml
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [core_contributors]: https://img.shields.io/badge/core_contributors-3-orange.svg 'Number of core contributors'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
