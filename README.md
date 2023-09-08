@@ -1,3 +1,11 @@
+# Reproduction
+
+First you will need ruby installed.
+This is easy to do via homebrew.
+Second, you will need to change the path variable pointing to the ruby installation 
+in the .zshrc file.
+Details can be found [here](https://stackoverflow.com/questions/51126403/you-dont-have-write-permissions-for-the-library-ruby-gems-2-3-0-directory-ma)
+
 # al-folio
 
 - Make sure the baseulr is empty in _config.yml
