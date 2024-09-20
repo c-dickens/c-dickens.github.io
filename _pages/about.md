@@ -14,7 +14,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research scientist at Yahoo working on the [DataSketches](https://datasketches.apache.org/) team.
+I am currently an Entrepreneur in Residence at Entrpreneur First. 
+Previously I was a research scientist at Yahoo working on the [DataSketches](https://datasketches.apache.org/) team.
 My research interests are in randomised algorithms for large-scale data analysis and machine learning, as well as fundamental matrix computations.
 Between 2016-2021, I was a PhD student at the University of Warwick's Department of Computer Science, supervised by 
 [Graham Cormode](http://dimacs.rutgers.edu/~graham/).
