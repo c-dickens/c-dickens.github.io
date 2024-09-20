@@ -9,7 +9,7 @@ categories:
 authors:
   - name: Charlie Dickens
 
-bibliography: 2024-09-20-resignation.bib
+# bibliography: 2024-09-20-reflections.bib
 
 
 # Optionally, you can add a table of contents to your post.
