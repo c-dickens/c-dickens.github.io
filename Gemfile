@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Specify Ruby version to avoid conflicts
-ruby '~> 3.0.0'
+ruby '~> 3.2.0'
 
 group :jekyll_plugins do
     gem 'jekyll', '~> 4.3.0'
